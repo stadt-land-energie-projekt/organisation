@@ -8,7 +8,7 @@ It aims to ensure good transferability to other case studies at a later date.
 ### GitHub repos
 
 * **organisation**: contains project overview, data workflows and best practices
-* **sl-app**: development of "Szenario-Explorer" front-end
+* **sl-app**: development of "Scenario-Explorer" front-end
 * **oemof-B3-robust**: development of SLE energy model
 * **oemof-solph**: oemof-solph implementation with robustness features
 
@@ -28,7 +28,9 @@ It aims to ensure good transferability to other case studies at a later date.
 
 ## Interfaces 
 
+**datamodel**: #TODO: explain data pipeline from start to end and datamodels used once final
 
+**Scenario-Explorer**: interface to explore regional renewable energy investment scenarios 
 
 ## Open Licences for Code and Data
 
