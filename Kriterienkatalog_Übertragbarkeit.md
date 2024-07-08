@@ -16,6 +16,16 @@ It aims to ensure good transferability to other case studies at a later date.
 
 ## Documentation 
 
+**Code**: GitHub
+
+**Manuals**: 
+* Final report
+* Best-practice guide
+  * Elaborates methods and reasoning of data processing
+  * Helps new sl-app users to understand how to apply sl-app to their region
+
+
+
 ## Interfaces 
 
 
