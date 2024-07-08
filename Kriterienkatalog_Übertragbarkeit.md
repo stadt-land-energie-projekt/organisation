@@ -28,7 +28,7 @@ It aims to ensure good transferability to other case studies at a later date.
 
 ## Interfaces 
 
-**datamodel**: #TODO: explain data pipeline from start to end and datamodels used once final
+**datamodel**: #TODO: explain data pipeline from start to end and datamodels used once final (https://github.com/stadt-land-energie-projekt/organisation/blob/main/pipeline/SLE_pipe.drawio.svg)
 
 **Scenario-Explorer**: interface to explore regional renewable energy investment scenarios 
 
